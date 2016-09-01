@@ -1,0 +1,8 @@
+C:\work\Examples\GIT_API\GIT_API\bin\Debug\GIT_API.exe.config
+C:\work\Examples\GIT_API\GIT_API\bin\Debug\GIT_API.exe
+C:\work\Examples\GIT_API\GIT_API\bin\Debug\GIT_API.pdb
+C:\work\Examples\GIT_API\GIT_API\bin\Debug\Newtonsoft.Json.dll
+C:\work\Examples\GIT_API\GIT_API\bin\Debug\Newtonsoft.Json.xml
+C:\work\Examples\GIT_API\GIT_API\obj\Debug\GIT_API.csprojResolveAssemblyReference.cache
+C:\work\Examples\GIT_API\GIT_API\obj\Debug\GIT_API.exe
+C:\work\Examples\GIT_API\GIT_API\obj\Debug\GIT_API.pdb
